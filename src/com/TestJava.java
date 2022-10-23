@@ -8,7 +8,7 @@ package com;
 
 public class TestJava {
     public static void main(String[] args) {
-
+        System.out.println("");
     }
     int test1(){
         return 0;
